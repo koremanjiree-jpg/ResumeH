@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Builder & Smart Resume Analyzer",
+  "description": "Create ATS-friendly resumes, analyze your job match, discover skill gaps, and build your personalized career roadmap with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
